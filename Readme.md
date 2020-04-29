@@ -129,7 +129,7 @@ class _State extends State<MyApp>{
 
 2. Ejecutar la App en dispositivo conectado.
 
-<img src="repository/images/proyecto1/emulacion.jpg" height="500" align="Center">
+<img src="repository/images/proyecto1/emulacion.jpg" height="500" style="{text-align: center}" >
 
 ## Simulaciones de proyectos
 
@@ -137,7 +137,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 1. Buttons: RaisedButton, FlatButton, IconButton, Tooltip
 
-![gif button](repository/gif_projects/image3.gif)
+![gif button](repository/gif_projects/image3.mp4)
 
 ### Project: 
 
@@ -152,7 +152,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 2. Checkbox
 
-![gif checkbox](repository/gif_projects/image4.gif)
+![gif checkbox](repository/gif_projects/image4.mp4)
 
 ### Project: 
 
@@ -160,7 +160,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 3. Switch
 
-![gif switch](repository/gif_projects/image5.gif)
+![gif switch](repository/gif_projects/image5.mp4)
 
 ### Project: 
 
@@ -168,7 +168,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 4. RadioButton
 
-![gif RadioButton](repository/gif_projects/image6.gif)
+![gif RadioButton](repository/gif_projects/image6.mp4)
 
 ### Project: 
 
@@ -176,7 +176,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 5. Date/Time picker
 
-![gif Date](repository/gif_projects/image8.gif)
+![gif Date](repository/gif_projects/image8.mp4)
 
 ### Project: 
 
@@ -184,7 +184,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 6. Slider
 
-![gif Slider](repository/gif_projects/image9.gif)
+![gif Slider](repository/gif_projects/image9.mp4)
 
 ### Project: 
 
@@ -192,7 +192,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 7. Drawer
 
-![gif Drawer](repository/gif_projects/image10.gif)
+![gif Drawer](repository/gif_projects/image10.mp4)
 
 ### Project: 
 
@@ -200,7 +200,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 8. Snackbar
 
-![gif Snackbar](repository/gif_projects/image11.gif)
+![gif Snackbar](repository/gif_projects/image11.mp4)
 
 ### Project: 
 
@@ -208,7 +208,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 9. Simple Dialog
 
-![gif Simple Dialog](repository/gif_projects/image12.gif)
+![gif Simple Dialog](repository/gif_projects/image12.mp4)
 
 ### Project: 
 
@@ -216,7 +216,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 10. Alert Dialog
 
-![gif Alert Dialog](repository/gif_projects/image13.gif)
+![gif Alert Dialog](repository/gif_projects/image13.mp4)
 
 ### Project: 
 
@@ -224,7 +224,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 11. Listview
 
-![gif Listview](repository/gif_projects/image14.gif)
+![gif Listview](repository/gif_projects/image14.mp4)
 
 ### Project: 
 
@@ -232,7 +232,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 12. Listview Dinamic
 
-![gif Listview Dinamic](repository/gif_projects/image15.gif)
+![gif Listview Dinamic](repository/gif_projects/image15.mp4)
 
 ### Project: 
 
@@ -240,7 +240,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 13. Listview Dinamic
 
-![gif Listview Dinamic](repository/gif_projects/image15.gif)
+![gif Listview Dinamic](repository/gif_projects/image15.mp4)
 
 ### Project: 
 
@@ -248,7 +248,7 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 14. Card
 
-![Card](repository/images/proyecto2/card.jpg)
+<img src="repository/images/proyecto2/card.jpg" height="500" style="{text-align: center}" >
 
 ### Project: 
 
