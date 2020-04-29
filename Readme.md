@@ -129,9 +129,9 @@ class _State extends State<MyApp>{
 
 2. Ejecutar la App en dispositivo conectado.
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/images/proyecto1/emulacion.jpg" height="500">
-</div>
+</p>
 
 ## Simulaciones de proyectos
 
@@ -139,9 +139,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 1. Buttons: RaisedButton, FlatButton, IconButton, Tooltip
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image3.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -156,9 +156,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 2. Checkbox
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image4.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -166,9 +166,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 3. Switch
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image5.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -176,9 +176,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 4. RadioButton
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image6.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -186,9 +186,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 5. Date/Time picker
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image8.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -196,9 +196,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 6. Slider
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image9.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -206,9 +206,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 7. Drawer
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image10.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -216,9 +216,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 8. Snackbar
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image11.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -226,9 +226,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 9. Simple Dialog
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image12.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -236,9 +236,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 10. Alert Dialog
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image13.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -246,9 +246,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 11. Listview
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image14.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -256,9 +256,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 12. Listview Dinamic
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/gif_projects/image15.gif" height="500" align="Center">
-</div>
+</p>
 
 ### Project: 
 
@@ -266,9 +266,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 13. Card
 
-<div style="text-align:center">
+<p align="center">
 	<img src="repository/images/proyecto2/card.jpg" height="500" align="Center" >
-</div>
+</p>
 
 ### Project: 
 
