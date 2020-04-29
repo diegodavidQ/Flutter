@@ -129,11 +129,9 @@ class _State extends State<MyApp>{
 
 2. Ejecutar la App en dispositivo conectado.
 
-<img src="repository/images/proyecto1/emulacion.jpg" height="500" align="Center" style="{ text-align: center;
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 50%;}" >
+<div style="text-align:center">
+	<img src="repository/images/proyecto1/emulacion.jpg" height="500">
+</div>
 
 ## Simulaciones de proyectos
 
@@ -141,7 +139,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 1. Buttons: RaisedButton, FlatButton, IconButton, Tooltip
 
-![gif button](repository/gif_projects/image3.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image3.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -156,7 +156,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 2. Checkbox
 
-![gif checkbox](repository/gif_projects/image4.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image4.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -164,7 +166,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 3. Switch
 
-![gif switch](repository/gif_projects/image5.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image5.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -172,7 +176,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 4. RadioButton
 
-![gif RadioButton](repository/gif_projects/image6.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image6.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -180,7 +186,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 5. Date/Time picker
 
-![gif Date](repository/gif_projects/image8.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image8.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -188,7 +196,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 6. Slider
 
-![gif Slider](repository/gif_projects/image9.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image9.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -196,7 +206,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 7. Drawer
 
-![gif Drawer](repository/gif_projects/image10.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image10.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -204,7 +216,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 8. Snackbar
 
-![gif Snackbar](repository/gif_projects/image11.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image11.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -212,7 +226,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 9. Simple Dialog
 
-![gif Simple Dialog](repository/gif_projects/image12.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image12.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -220,7 +236,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 10. Alert Dialog
 
-![gif Alert Dialog](repository/gif_projects/image13.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image13.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -228,7 +246,9 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 11. Listview
 
-![gif Listview](repository/gif_projects/image14.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image14.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
@@ -236,34 +256,19 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 12. Listview Dinamic
 
-![gif Listview Dinamic](repository/gif_projects/image15.gif)
+<div style="text-align:center">
+	<img src="repository/gif_projects/image15.gif" height="500" align="Center">
+</div>
 
 ### Project: 
 
 * [Listview Dinamic](/flutter_app_listview_dinamic)
 
-13. Listview Dinamic
+13. Card
 
-![gif Listview Dinamic](repository/gif_projects/image15.gif)
-
-<img src="repository/gif_projects/image15.gif" height="500" align="Center" style="{ text-align: center;
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 50%;}" >
-
-
-### Project: 
-
-* [Listview Dinamic](/flutter_app_listview_dinamic)
-
-14. Card
-
-<img src="repository/images/proyecto2/card.jpg" height="500" align="Center" style="{ text-align: center;
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: 50%;}" >
+<div style="text-align:center">
+	<img src="repository/images/proyecto2/card.jpg" height="500" align="Center" >
+</div>
 
 ### Project: 
 
