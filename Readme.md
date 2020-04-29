@@ -129,7 +129,8 @@ class _State extends State<MyApp>{
 
 2. Ejecutar la App en dispositivo conectado.
 
-<img src="repository/images/proyecto1/emulacion.jpg" height="500" style="{display: block;
+<img src="repository/images/proyecto1/emulacion.jpg" height="500" align="Center" style="{ text-align: center;
+	display: block;
   margin-left: auto;
   margin-right: auto;
   height: 50%;}" >
@@ -245,16 +246,24 @@ A continuación, se observan simulaciones de algunos proyectos realizados en Flu
 
 ![gif Listview Dinamic](repository/gif_projects/image15.gif)
 
+<img src="repository/gif_projects/image15.gif" height="500" align="Center" style="{ text-align: center;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;}" >
+
+
 ### Project: 
 
 * [Listview Dinamic](/flutter_app_listview_dinamic)
 
 14. Card
 
-<img src="repository/images/proyecto2/card.jpg" style="{display: block;
+<img src="repository/images/proyecto2/card.jpg" height="500" align="Center" style="{ text-align: center;
+	display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 50%;}">
+  height: 50%;}" >
 
 ### Project: 
 
