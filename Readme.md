@@ -1,5 +1,7 @@
 # Flutter
 
+En el directorio `repository/Widget_simple_file` estan los archivos individuales de cada uno de los proyectos. Al ser un simple proyecto solamente es uno por cada proyecto la otra estructura del proyecto no ha sido modificada.
+
 ## Instalación
 
 * En la web oficial de [Flutter](https://flutter.dev/docs/get-started/install) descargar el SDK de Flutter.
